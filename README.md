@@ -1,6 +1,6 @@
 
 <p align="center">
-    🤗 <a href="https://huggingface.co/datasets/THU-KEG/MM_Math" target="_blank">HF Repo</a> • 📃 <a href="https://arxiv.org/abs/2308.14508" target="_blank">Paper</a>
+    🤗 <a href="https://huggingface.co/datasets/THU-KEG/MM_Math" target="_blank">HF Repo</a> • 📃 <a href="https://arxiv.org/abs/2404.05091" target="_blank">Paper</a>
 </p>
 
 
