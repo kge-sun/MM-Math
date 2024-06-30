@@ -1,6 +1,6 @@
 
 <p align="center">
-    🤗 <a href="https://huggingface.co/datasets/THUDM/LongBench" target="_blank">HF Repo</a> • 📃 <a href="https://arxiv.org/abs/2308.14508" target="_blank">Paper</a>
+    🤗 <a href="https://huggingface.co/datasets/THU-KEG/MM_Math" target="_blank">HF Repo</a> • 📃 <a href="https://arxiv.org/abs/2308.14508" target="_blank">Paper</a>
 </p>
 
 
@@ -70,16 +70,10 @@ All data in **MM-Math**  are standardized to the following format:
 ```json
 {
     "question": "The text of each question statement conforms to LaTeX code.",
-    "image_file_name": "The folder where the question image is located.",
-    "image": "The names of the question images in the image folder.",
+    "file_name": "The names of the question images in the image folder.",
     "solution": "The text of each question' soluation conforms to LaTeX code.",
-    "solution_image": "The image names of solution used in the image folder.",
     "year": "The grade level annotated from each year examination.",
     "difficult": "The difficult level annotated by  examination scores.",
     "knowledge": "Each knowledge points contained in the question, which is annotated by middle school teacher."
 }
 ```
-
-
-
-
